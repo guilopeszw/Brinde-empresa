@@ -1,1 +1,2 @@
 # Brinde-empresa
+Uma empresa quer dar de brinde ingressos para seus funcionários. Homens recebem para um jogo de futebol e mulheres para uma sessão de cinema. Os funcionários casados recebem 01 ingresso para seu/sua companheiro(a) e todos os filhos de funcionários recebem 01 ingresso também. O problema deixa bem claro que caso a pessoa não seja CASADA, ela irá receber apenas o ingresso próprio (e para seus filhos).
